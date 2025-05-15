@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<biblio>
+	<livre>
+		<titre>la nuit porte conseille</titre>
+		<auteur>Emile Zola</auteur>
+		<date>1920</date>
+	</livre>
+	<livre>
+		<titre>Au bonheur</titre>
+		<auteur>rivanold</auteur>
+		<date>2022</date>
+	</livre>
+	<livre>
+		<titre>chemin ouvert</titre>
+		<auteur>Florence</auteur>
+		<date>1920</date>
+	</livre>
+	<livre>
+		<titre>chemin ouvert</titre>
+		<auteur>Emile Zola</auteur>
+		<date>1920</date>
+	</livre>
+</biblio>
